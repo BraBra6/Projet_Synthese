@@ -1,0 +1,281 @@
+﻿categorie,detail,annee,nombre
+Permis initial,Permis initial,2018,27125
+Permis initial,Permis initial,2019,37005
+Permis initial,Permis initial,2020,16720
+Permis initial,Permis initial,2021,38970
+Permis initial,Permis initial,2022,37530
+Permis subséquent,Permis subséquent,2018,17450
+Permis subséquent,Permis subséquent,2019,20575
+Permis subséquent,Permis subséquent,2020,26155
+Permis subséquent,Permis subséquent,2021,25070
+Permis subséquent,Permis subséquent,2022,25945
+Permis unique,Permis unique,2018,34715
+Permis unique,Permis unique,2019,42110
+Permis unique,Permis unique,2020,26865
+Permis unique,Permis unique,2021,45920
+Permis unique,Permis unique,2022,43460
+Permis multiples,Permis multiples,2018,9265
+Permis multiples,Permis multiples,2019,14915
+Permis multiples,Permis multiples,2020,15405
+Permis multiples,Permis multiples,2021,16945
+Permis multiples,Permis multiples,2022,18905
+Permis multiples,Avec permis de travail,2018,9230
+Permis multiples,Avec permis de travail,2019,14895
+Permis multiples,Avec permis de travail,2020,15395
+Permis multiples,Avec permis de travail,2021,16920
+Permis multiples,Avec permis de travail,2022,18890
+Permis multiples,Sans permis de travail,2018,35
+Permis multiples,Sans permis de travail,2019,20
+Permis multiples,Sans permis de travail,2020,10
+Permis multiples,Sans permis de travail,2021,25
+Permis multiples,Sans permis de travail,2022,15
+Groupe d'âge,0 à 14 ans,2018,2215
+Groupe d'âge,0 à 14 ans,2019,3465
+Groupe d'âge,0 à 14 ans,2020,2335
+Groupe d'âge,0 à 14 ans,2021,4090
+Groupe d'âge,0 à 14 ans,2022,4775
+Groupe d'âge,15 à 19 ans,2018,10645
+Groupe d'âge,15 à 19 ans,2019,13960
+Groupe d'âge,15 à 19 ans,2020,8270
+Groupe d'âge,15 à 19 ans,2021,13055
+Groupe d'âge,15 à 19 ans,2022,11345
+Groupe d'âge,20 à 24 ans,2018,16655
+Groupe d'âge,20 à 24 ans,2019,21760
+Groupe d'âge,20 à 24 ans,2020,16410
+Groupe d'âge,20 à 24 ans,2021,25835
+Groupe d'âge,20 à 24 ans,2022,24550
+Groupe d'âge,25 à 29 ans,2018,8215
+Groupe d'âge,25 à 29 ans,2019,10380
+Groupe d'âge,25 à 29 ans,2020,8870
+Groupe d'âge,25 à 29 ans,2021,11315
+Groupe d'âge,25 à 29 ans,2022,12100
+Groupe d'âge,30 à 44 ans,2018,5700
+Groupe d'âge,30 à 44 ans,2019,6750
+Groupe d'âge,30 à 44 ans,2020,5780
+Groupe d'âge,30 à 44 ans,2021,7790
+Groupe d'âge,30 à 44 ans,2022,8825
+Groupe d'âge,45 et plus,2018,640
+Groupe d'âge,45 et plus,2019,800
+Groupe d'âge,45 et plus,2020,775
+Groupe d'âge,45 et plus,2021,890
+Groupe d'âge,45 et plus,2022,950
+Niveau d'études,Primaire,2018,1345
+Niveau d'études,Primaire,2019,2315
+Niveau d'études,Primaire,2020,1520
+Niveau d'études,Primaire,2021,2735
+Niveau d'études,Primaire,2022,3355
+Niveau d'études,Secondaire et École de métier,2018,6945
+Niveau d'études,Secondaire et École de métier,2019,8260
+Niveau d'études,Secondaire et École de métier,2020,6680
+Niveau d'études,Secondaire et École de métier,2021,8095
+Niveau d'études,Secondaire et École de métier,2022,8335
+Niveau d'études,Cégep et Collège,2018,9600
+Niveau d'études,Cégep et Collège,2019,16860
+Niveau d'études,Cégep et Collège,2020,15720
+Niveau d'études,Cégep et Collège,2021,14805
+Niveau d'études,Cégep et Collège,2022,15095
+Niveau d'études,Baccalauréat,2018,11550
+Niveau d'études,Baccalauréat,2019,13110
+Niveau d'études,Baccalauréat,2020,7110
+Niveau d'études,Baccalauréat,2021,16180
+Niveau d'études,Baccalauréat,2022,15150
+Niveau d'études,Maîtrise,2018,8775
+Niveau d'études,Maîtrise,2019,9795
+Niveau d'études,Maîtrise,2020,6205
+Niveau d'études,Maîtrise,2021,13205
+Niveau d'études,Maîtrise,2022,13000
+Niveau d'études,Doctorat,2018,3400
+Niveau d'études,Doctorat,2019,3860
+Niveau d'études,Doctorat,2020,3390
+Niveau d'études,Doctorat,2021,5180
+Niveau d'études,Doctorat,2022,4875
+Niveau d'études,Autres études universitaires,2018,1515
+Niveau d'études,Autres études universitaires,2019,1500
+Niveau d'études,Autres études universitaires,2020,1000
+Niveau d'études,Autres études universitaires,2021,1940
+Niveau d'études,Autres études universitaires,2022,2025
+Niveau d'études,Autres études,2018,1115
+Niveau d'études,Autres études,2019,1520
+Niveau d'études,Autres études,2020,1075
+Niveau d'études,Autres études,2021,1000
+Niveau d'études,Autres études,2022,1015
+Niveau d'études,Non précisé,2018,20
+Niveau d'études,Non précisé,2019,15
+Niveau d'études,Non précisé,2020,15
+Niveau d'études,Non précisé,2021,10
+Niveau d'études,Non précisé,2022,5
+Région de destination,Abitibi-Témiscamingue,2018,290
+Région de destination,Abitibi-Témiscamingue,2019,290
+Région de destination,Abitibi-Témiscamingue,2020,160
+Région de destination,Abitibi-Témiscamingue,2021,365
+Région de destination,Abitibi-Témiscamingue,2022,450
+Région de destination,Bas-Saint-Laurent,2018,630
+Région de destination,Bas-Saint-Laurent,2019,615
+Région de destination,Bas-Saint-Laurent,2020,325
+Région de destination,Bas-Saint-Laurent,2021,840
+Région de destination,Bas-Saint-Laurent,2022,1045
+Région de destination,Capitale-Nationale,2018,3305
+Région de destination,Capitale-Nationale,2019,3880
+Région de destination,Capitale-Nationale,2020,2695
+Région de destination,Capitale-Nationale,2021,4785
+Région de destination,Capitale-Nationale,2022,5670
+Région de destination,Centre-du-Québec,2018,155
+Région de destination,Centre-du-Québec,2019,235
+Région de destination,Centre-du-Québec,2020,190
+Région de destination,Centre-du-Québec,2021,485
+Région de destination,Centre-du-Québec,2022,395
+Région de destination,Chaudière-Appalaches,2018,240
+Région de destination,Chaudière-Appalaches,2019,305
+Région de destination,Chaudière-Appalaches,2020,270
+Région de destination,Chaudière-Appalaches,2021,580
+Région de destination,Chaudière-Appalaches,2022,685
+Région de destination,Côte-Nord,2018,65
+Région de destination,Côte-Nord,2019,65
+Région de destination,Côte-Nord,2020,40
+Région de destination,Côte-Nord,2021,80
+Région de destination,Côte-Nord,2022,125
+Région de destination,Estrie,2018,1765
+Région de destination,Estrie,2019,2300
+Région de destination,Estrie,2020,1655
+Région de destination,Estrie,2021,2545
+Région de destination,Estrie,2022,2130
+Région de destination,Gaspésie--Îles-de-la-Madeleine,2018,345
+Région de destination,Gaspésie--Îles-de-la-Madeleine,2019,155
+Région de destination,Gaspésie--Îles-de-la-Madeleine,2020,100
+Région de destination,Gaspésie--Îles-de-la-Madeleine,2021,110
+Région de destination,Gaspésie--Îles-de-la-Madeleine,2022,170
+Région de destination,Lanaudière,2018,65
+Région de destination,Lanaudière,2019,60
+Région de destination,Lanaudière,2020,65
+Région de destination,Lanaudière,2021,130
+Région de destination,Lanaudière,2022,160
+Région de destination,Laurentides,2018,95
+Région de destination,Laurentides,2019,150
+Région de destination,Laurentides,2020,120
+Région de destination,Laurentides,2021,175
+Région de destination,Laurentides,2022,235
+Région de destination,Laval,2018,425
+Région de destination,Laval,2019,625
+Région de destination,Laval,2020,460
+Région de destination,Laval,2021,710
+Région de destination,Laval,2022,880
+Région de destination,Mauricie,2018,1355
+Région de destination,Mauricie,2019,2215
+Région de destination,Mauricie,2020,1435
+Région de destination,Mauricie,2021,2650
+Région de destination,Mauricie,2022,2470
+Région de destination,Montérégie,2018,1165
+Région de destination,Montérégie,2019,1610
+Région de destination,Montérégie,2020,1285
+Région de destination,Montérégie,2021,1940
+Région de destination,Montérégie,2022,1885
+Région de destination,Montréal,2018,31870
+Région de destination,Montréal,2019,40505
+Région de destination,Montréal,2020,31555
+Région de destination,Montréal,2021,43795
+Région de destination,Montréal,2022,41295
+Région de destination,Nord-du-Québec,2018,20
+Région de destination,Nord-du-Québec,2019,10
+Région de destination,Nord-du-Québec,2020,15
+Région de destination,Nord-du-Québec,2021,20
+Région de destination,Nord-du-Québec,2022,55
+Région de destination,Outaouais,2018,460
+Région de destination,Outaouais,2019,1355
+Région de destination,Outaouais,2020,515
+Région de destination,Outaouais,2021,775
+Région de destination,Outaouais,2022,1155
+Région de destination,Saguenay--Lac-Saint-Jean,2018,1455
+Région de destination,Saguenay--Lac-Saint-Jean,2019,1960
+Région de destination,Saguenay--Lac-Saint-Jean,2020,875
+Région de destination,Saguenay--Lac-Saint-Jean,2021,2095
+Région de destination,Saguenay--Lac-Saint-Jean,2022,2420
+Région de destination,Non précisé,2018,435
+Région de destination,Non précisé,2019,830
+Région de destination,Non précisé,2020,760
+Région de destination,Non précisé,2021,985
+Région de destination,Non précisé,2022,1500
+Langue connue,Français,2018,6095
+Langue connue,Français,2019,7695
+Langue connue,Français,2020,5970
+Langue connue,Français,2021,10270
+Langue connue,Français,2022,12445
+Langue connue,Bilingue (français et anglais),2018,18830
+Langue connue,Bilingue (français et anglais),2019,22045
+Langue connue,Bilingue (français et anglais),2020,15505
+Langue connue,Bilingue (français et anglais),2021,28490
+Langue connue,Bilingue (français et anglais),2022,27455
+Langue connue,Anglais,2018,17080
+Langue connue,Anglais,2019,24630
+Langue connue,Anglais,2020,19905
+Langue connue,Anglais,2021,22460
+Langue connue,Anglais,2022,20695
+Langue connue,Aucune (ni français ni anglais),2018,440
+Langue connue,Aucune (ni français ni anglais),2019,605
+Langue connue,Aucune (ni français ni anglais),2020,275
+Langue connue,Aucune (ni français ni anglais),2021,665
+Langue connue,Aucune (ni français ni anglais),2022,1015
+Langue connue,Non précisée,2018,1800
+Langue connue,Non précisée,2019,2295
+Langue connue,Non précisée,2020,970
+Langue connue,Non précisée,2021,1265
+Langue connue,Non précisée,2022,1150
+Principaux pays de naissance (ordre de 2022),France,2018,9920
+Principaux pays de naissance (ordre de 2022),France,2019,10475
+Principaux pays de naissance (ordre de 2022),France,2020,5870
+Principaux pays de naissance (ordre de 2022),France,2021,13670
+Principaux pays de naissance (ordre de 2022),France,2022,10700
+Principaux pays de naissance (ordre de 2022),Inde,2018,5615
+Principaux pays de naissance (ordre de 2022),Inde,2019,12700
+Principaux pays de naissance (ordre de 2022),Inde,2020,12190
+Principaux pays de naissance (ordre de 2022),Inde,2021,10085
+Principaux pays de naissance (ordre de 2022),Inde,2022,8075
+Principaux pays de naissance (ordre de 2022),Algérie,2018,1345
+Principaux pays de naissance (ordre de 2022),Algérie,2019,2500
+Principaux pays de naissance (ordre de 2022),Algérie,2020,1885
+Principaux pays de naissance (ordre de 2022),Algérie,2021,2660
+Principaux pays de naissance (ordre de 2022),Algérie,2022,4315
+Principaux pays de naissance (ordre de 2022),Chine,2018,5895
+Principaux pays de naissance (ordre de 2022),Chine,2019,5960
+Principaux pays de naissance (ordre de 2022),Chine,2020,4165
+Principaux pays de naissance (ordre de 2022),Chine,2021,4430
+Principaux pays de naissance (ordre de 2022),Chine,2022,3505
+Principaux pays de naissance (ordre de 2022),Maroc,2018,1645
+Principaux pays de naissance (ordre de 2022),Maroc,2019,2420
+Principaux pays de naissance (ordre de 2022),Maroc,2020,1900
+Principaux pays de naissance (ordre de 2022),Maroc,2021,2995
+Principaux pays de naissance (ordre de 2022),Maroc,2022,3165
+Principaux pays de naissance (ordre de 2022),Iran,2018,1530
+Principaux pays de naissance (ordre de 2022),Iran,2019,2060
+Principaux pays de naissance (ordre de 2022),Iran,2020,1520
+Principaux pays de naissance (ordre de 2022),Iran,2021,2710
+Principaux pays de naissance (ordre de 2022),Iran,2022,2545
+Principaux pays de naissance (ordre de 2022),Colombie,2018,700
+Principaux pays de naissance (ordre de 2022),Colombie,2019,1135
+Principaux pays de naissance (ordre de 2022),Colombie,2020,785
+Principaux pays de naissance (ordre de 2022),Colombie,2021,1635
+Principaux pays de naissance (ordre de 2022),Colombie,2022,2305
+Principaux pays de naissance (ordre de 2022),Tunisie,2018,1130
+Principaux pays de naissance (ordre de 2022),Tunisie,2019,1325
+Principaux pays de naissance (ordre de 2022),Tunisie,2020,1180
+Principaux pays de naissance (ordre de 2022),Tunisie,2021,1615
+Principaux pays de naissance (ordre de 2022),Tunisie,2022,2135
+Principaux pays de naissance (ordre de 2022),Cameroun,2018,735
+Principaux pays de naissance (ordre de 2022),Cameroun,2019,935
+Principaux pays de naissance (ordre de 2022),Cameroun,2020,680
+Principaux pays de naissance (ordre de 2022),Cameroun,2021,1150
+Principaux pays de naissance (ordre de 2022),Cameroun,2022,1860
+Principaux pays de naissance (ordre de 2022),Brésil,2018,1070
+Principaux pays de naissance (ordre de 2022),Brésil,2019,1180
+Principaux pays de naissance (ordre de 2022),Brésil,2020,700
+Principaux pays de naissance (ordre de 2022),Brésil,2021,1140
+Principaux pays de naissance (ordre de 2022),Brésil,2022,1745
+Principaux pays de naissance (ordre de 2022),Autres pays,2018,14390
+Principaux pays de naissance (ordre de 2022),Autres pays,2019,16335
+Principaux pays de naissance (ordre de 2022),Autres pays,2020,11380
+Principaux pays de naissance (ordre de 2022),Autres pays,2021,20695
+Principaux pays de naissance (ordre de 2022),Autres pays,2022,22050
+Principaux pays de naissance (ordre de 2022),Total (personnes uniques),2018,43980
+Principaux pays de naissance (ordre de 2022),Total (personnes uniques),2019,57025
+Principaux pays de naissance (ordre de 2022),Total (personnes uniques),2020,42260
+Principaux pays de naissance (ordre de 2022),Total (personnes uniques),2021,62785
+Principaux pays de naissance (ordre de 2022),Total (personnes uniques),2022,62400
