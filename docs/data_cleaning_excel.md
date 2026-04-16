@@ -11,7 +11,7 @@
 
 # 1. Contexte du projet
 
-Ce projet de synthèse porte sur l’analyse des données d’immigration au Québec, en particulier :
+Ce projet de synthèse vise à analyser les données d’immigration au Québec, en particulier :
 
 - les étudiants temporaires,
 - les admissions permanentes,
@@ -176,7 +176,7 @@ Le dataset CSQ a été transformé du format large vers un format long :
 
 Format final :
 
-categorie | description | details | annee | nombre
+categorie | description | detail | annee | nombre
 
 Avantages :
 
@@ -241,4 +241,4 @@ Grâce à la correction des formats numériques, la gestion des valeurs manquant
 - l’intégration dans une base de données SQL,
 - la visualisation avancée avec Power BI.
 
-Cette étape est essentielle pour garantir la fiabilité et la rigueur analytique du projet de synthèse en data
+Ce processus constitue une étape fondamentale dans la préparation des données, permettant d’assurer la qualité et la fiabilité des analyses réalisées dans les phases suivantes du projet.

@@ -177,3 +177,4 @@ Les données sont maintenant prêtes pour :
 - la visualisation avec Power BI
 
 Cette étape garantit la qualité et la fiabilité des analyses futures.
+Ce processus de préparation des données constitue une étape essentielle dans la mise en place d’un système d’analyse décisionnelle fiable, garantissant la pertinence et la qualité des analyses réalisées.
