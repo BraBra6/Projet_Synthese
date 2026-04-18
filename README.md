@@ -71,6 +71,59 @@ Le projet utilise plusieurs outils d’analyse de données :
 
 ---
 
+---
+
+## Tableau de bord Power BI
+
+Un tableau de bord interactif a été développé avec **Power BI** afin de visualiser et analyser les tendances de l’immigration au Québec.
+
+Le dashboard est organisé en **trois pages principales** :
+
+### 1. Vue générale
+
+- Indicateurs clés (KPI) :
+  - Total des étudiants internationaux
+  - Total des résidents permanents
+  - Total des certificats de sélection du Québec (CSQ)
+  - Taux de conversion (CSQ → résidents permanents)
+- Évolution des étudiants internationaux (2018–2022)
+- Évolution de l’immigration permanente (2020–2021)
+- Évolution des CSQ (2016–2023)
+
+![Vue générale](figures/page1_vue_generale.png)
+
+---
+
+### 2. Profils et origines
+
+- Top pays d’origine des étudiants internationaux
+- Top pays d’origine des bénéficiaires du CSQ
+- Répartition des étudiants par niveau d’études
+- Catégories d’immigration (CSQ)
+
+![Profils et origines](figures/page2_profils_origines.png)
+
+---
+
+### 3. Analyse comparative
+
+- Comparaison des trois flux d’immigration :
+  - Étudiants internationaux
+  - Résidents permanents
+  - CSQ
+- Identification des tendances globales
+- Impact de la COVID-19 sur les flux migratoires
+
+![Analyse comparative](figures/page3_analyse_comparaison.png)
+
+---
+
+### Remarque technique
+
+Le fichier Power BI (`.pbix`) est configuré en **mode Import**, ce qui signifie que les données sont intégrées directement dans le fichier et ne nécessitent pas de connexion à SQL Server pour être consultées.
+
+---
+
 ## Structure du projet
 
 ```
