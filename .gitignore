@@ -1,3 +1,5 @@
 .venv/
 __pycache__/
 *.pyc
+web_bonus/
+dashboard_final.html
