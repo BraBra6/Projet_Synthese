@@ -179,6 +179,10 @@ Le projet est organisé selon les étapes suivantes :
 - de visualiser ces informations dans un tableau de bord interactif
 
 ---
+ **Accéder au site :**  
+[https://brabra6.github.io/immigration-web-dashboard/](https://brabra6.github.io/immigration-web-dashboard/)
+
+ **Note :** Le site web n’est pas encore finalisé et certaines fonctionnalités ou visualisations peuvent être incomplètes.
 
 ## Auteur
 
